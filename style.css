@@ -1,0 +1,46 @@
+th,td{
+  border:1px solid rgb(209, 193, 193);
+  border-radius: 50px;
+}
+body{
+    width:94vw;
+    margin:auto;
+}
+.row{
+display :flex;
+width:100%;
+justify-content: space-around;
+/* flex-direction: row; */
+/* margin-left: -5vw; */
+align-content: space-between;
+}
+h5{
+    border-bottom: 2px solid black;
+}
+.container10{
+    display:flex;
+    align-content: space-between;
+    justify-content: space-between;
+}
+.card{
+    width:29vw;
+    height:35vh;
+    min-height: 250px;
+    /* border-style: ; */
+    /* display:inline; */
+}
+.cardimp{
+    height:73.5vh;
+    margin: 0;
+    /* min-height: 600px; */
+    
+    width:30vw;
+    min-height: 450px;
+}
+
+form{
+    margin-left:auto ;
+}
+.bl{
+    border-left:1px solid black;
+}
